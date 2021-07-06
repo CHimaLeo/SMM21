@@ -1,0 +1,748 @@
+{
+    "Data": [
+        {
+            "Fecha": "01 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 0,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "02 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 1,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "03 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 2,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "04 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 3,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "05 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 4,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "06 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 5,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "07 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 6,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "08 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 7,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "09 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 8,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "10 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 9,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "11 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 10,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "12 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 11,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "13 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 12,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "14 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 13,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "15 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 14,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "16 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 15,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "17 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 16,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "18 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 17,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "19 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 18,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "20 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 19,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "21 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 20,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "22 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 21,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "23 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 22,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "24 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 23,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "25 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 24,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "26 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 25,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "27 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 26,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "28 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 27,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "29 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 28,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "30 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 29,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Fecha": "31 Julio",
+            "SubTitle": "",
+            "Imagen": "R.mipmap.ic_launcher_round",
+            "ID": 30,
+            "Data": {
+                "Data": [
+                    {
+                        "Ofrenda": "Vestido",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "08:00",
+                        "Dia": ""
+                    },
+                    {
+                        "Ofrenda": "Eucaristia",
+                        "Dondado": "Donado por Juan Perez Lopez",
+                        "Lugar": "",
+                        "Hora": "19:00",
+                        "Dia": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
